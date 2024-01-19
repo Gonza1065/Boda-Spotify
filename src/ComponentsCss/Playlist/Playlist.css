@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap");
+.title-playlist {
+  text-align: center;
+}
+
+.title-playlist h1 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 26px;
+  color: white;
+  font-weight: 300;
+}
+
+.playlist-spotify iframe {
+  height: 80vh;
+}
+.btn-add-song {
+  text-align: center;
+  margin-top: 10px;
+}
+.btn-add-song a {
+  color: white;
+  background-color: #3b3b3b;
+  padding: 10px;
+  border-radius: 15px;
+  font-family: "Roboto Condensed", sans-serif;
+}
