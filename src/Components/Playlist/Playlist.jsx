@@ -18,7 +18,7 @@ export function Playlist() {
         ></iframe>
       </div>
       <div className="btn-add-song">
-        <Link to="https://open.spotify.com/playlist/6HhNF3CNARooIeezLRJuZz?si=QT0JhyoUS5KSOatJAEdthg&pi=u-bq6HuNroT9m_&pt=4fbac0e7c1b96375f31515425ef8a328">
+        <Link to="https://open.spotify.com/playlist/6HhNF3CNARooIeezLRJuZz?si=AoegLM_9ThKZ4eALSgFmTg&pi=u-pERYq9KZTvma&pt=c215553078b019ca7dcdfad026d6ecdc">
           Añadí tu tema
         </Link>
       </div>
